@@ -1,7 +1,7 @@
 import 'package:gojekclone/models/gojek_icon.dart';
 import 'package:gojekclone/theme.dart';
 
-List<GojekIcon> icons = [
+List<GojekIcon> gopayIcons = [
   GojekIcon(icon: 'pay', title: 'Bayar', color: null),
   GojekIcon(icon: 'topup', title: 'Top Up', color: null),
   GojekIcon(icon: 'explore', title: 'Eksplor', color: null)
